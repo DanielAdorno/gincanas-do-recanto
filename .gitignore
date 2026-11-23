@@ -1,0 +1,15 @@
+# Pacote offline gerado para apresentações (regerar a partir de prototipo/build/web)
+/distribuicao/
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+*.iml
+
+# Configurações locais do Claude Code
+.claude/settings.local.json
+
+# Configuração local de preview (por máquina)
+/prototipo/.claude/
